@@ -37,3 +37,5 @@ We welcome [issues](https://github.com/CircleCI-Public/path-filtering-orb/issues
 5. Now ensure the version tag selected is semantically accurate based on the changes included.
 6. Click _"Publish Release"_.
     - This will push a new tag and trigger your publishing pipeline on CircleCI.
+
+<!-- Updated on 2025-08-28 12:40:35 by automated script -->
